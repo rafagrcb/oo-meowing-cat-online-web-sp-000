@@ -1,6 +1,5 @@
 ## code your solution here. 
 class Cat
-  
   attr_accessor :name
 end
   
@@ -15,4 +14,5 @@ end
   def name
     @name
   end
+end
 end
